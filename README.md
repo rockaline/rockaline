@@ -16,6 +16,3 @@ My current interests include advanced analytics, exploratory data analysis (EDA)
 After spending a year transitioning into data analysis, I am now seeking opportunities where I can apply my expertise and passion to contribute to meaningful projects that make a positive impact and improve people’s lives.
 
 Feel free to connect with here or contact me via LinkedIn.
-
-Let's connect:
-- [LinkedIn](https://www.linkedin.com/in/aline-roque-958a5416a/)
